@@ -1,0 +1,36 @@
+name: Publier les posts Google Business Profile
+
+on:
+  schedule:
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gbp-posts
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publier les posts du jour
+        env:
+          GBP_CLIENT_ID: ${{ secrets.GBP_CLIENT_ID }}
+          GBP_CLIENT_SECRET: ${{ secrets.GBP_CLIENT_SECRET }}
+          GBP_REFRESH_TOKEN: ${{ secrets.GBP_REFRESH_TOKEN }}
+        run: python publish.py
+      - name: Enregistrer l'état des publications
+        if: always()
+        run: |
+          git config user.name "klymax-gbp-bot"
+          git config user.email "klymaxltd@gmail.com"
+          git add published.json
+          git diff --cached --quiet || git commit -m "Etat des posts du $(date -u +%F)"
+          git push
