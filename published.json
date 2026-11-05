@@ -12,5 +12,12 @@
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpVRUcyZF9vN3FlOW9vYllVMk9xX3dB",
     "createTime": "2026-11-03T12:49:26.239288905Z",
     "planned": "2026-11-03"
+  },
+  "p03-ads-eclairage": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/5392620248886741417",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpFRFo0U3pSY0N4cVIwanBXMDBsaVZB",
+    "createTime": "2026-11-05T16:39:03.827194561Z",
+    "planned": "2026-11-05"
   }
 }
