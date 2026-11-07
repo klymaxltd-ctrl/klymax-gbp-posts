@@ -22,7 +22,7 @@
   },
   "p04-prix-site-vitrine": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/1313277802244176040",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpmSGJEZXhtQTZXYi1YcHdtc3VkUExB",
     "createTime": "2026-11-06T16:06:52.266064650Z",
     "planned": "2026-11-06"
