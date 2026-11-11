@@ -36,7 +36,7 @@
   },
   "p06-audit": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/4902750336171450425",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtb3BfaDpnaHZEMVIxYU1JZWFRYmhLVzM4YmV3",
     "createTime": "2026-11-10T16:31:27.416900024Z",
     "planned": "2026-11-10"
