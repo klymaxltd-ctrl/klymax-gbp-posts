@@ -40,5 +40,12 @@
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtb3BfaDpnaHZEMVIxYU1JZWFRYmhLVzM4YmV3",
     "createTime": "2026-11-10T16:31:27.416900024Z",
     "planned": "2026-11-10"
+  },
+  "p07-pack-visibilite": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/8144855950380835486",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpoMFNuTjJWTWJnMm1vcTl0Y3o1N0dR",
+    "createTime": "2026-11-12T16:58:30.668117573Z",
+    "planned": "2026-11-12"
   }
 }
