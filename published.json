@@ -50,7 +50,7 @@
   },
   "p08-ads-sante": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/3731177754205584462",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDphNnJaV0k3SGg0OGJYbDFBS2Q2WnZR",
     "createTime": "2026-11-13T16:39:45.947733131Z",
     "planned": "2026-11-13"
