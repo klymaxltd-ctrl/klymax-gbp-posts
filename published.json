@@ -54,5 +54,12 @@
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDphNnJaV0k3SGg0OGJYbDFBS2Q2WnZR",
     "createTime": "2026-11-13T16:39:45.947733131Z",
     "planned": "2026-11-13"
+  },
+  "p09-glow-nails": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/6337358366014868904",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpLLW1pOVJLV2VBUnUzMjVIY2s5cmlB",
+    "createTime": "2026-11-16T18:46:28.465076029Z",
+    "planned": "2026-11-16"
   }
 }
