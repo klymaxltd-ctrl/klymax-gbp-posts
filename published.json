@@ -57,9 +57,16 @@
   },
   "p09-glow-nails": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/6337358366014868904",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpLLW1pOVJLV2VBUnUzMjVIY2s5cmlB",
     "createTime": "2026-11-16T18:46:28.465076029Z",
     "planned": "2026-11-16"
+  },
+  "p10-delai": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/8207322642540098511",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpwb3Q4RWVZTnZtejN4emptZkNwOHd3",
+    "createTime": "2026-11-17T17:45:07.166648446Z",
+    "planned": "2026-11-17"
   }
 }
