@@ -68,5 +68,12 @@
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpwb3Q4RWVZTnZtejN4emptZkNwOHd3",
     "createTime": "2026-11-17T17:45:07.166648446Z",
     "planned": "2026-11-17"
+  },
+  "p11-avis-buro-facile": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/4929923089464393867",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpUYTdfU1l3SE8zdU52V2gwcGY0NFR3",
+    "createTime": "2026-11-19T17:31:29.296840329Z",
+    "planned": "2026-11-19"
   }
 }
