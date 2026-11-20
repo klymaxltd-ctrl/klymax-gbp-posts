@@ -71,9 +71,16 @@
   },
   "p11-avis-buro-facile": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/4929923089464393867",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpUYTdfU1l3SE8zdU52V2gwcGY0NFR3",
     "createTime": "2026-11-19T17:31:29.296840329Z",
     "planned": "2026-11-19"
+  },
+  "p12-refonte": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/6876380962180629724",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpoVzBqclpqRm0xUTdfZjg1bVp0S1NR",
+    "createTime": "2026-11-20T17:06:24.120732894Z",
+    "planned": "2026-11-20"
   }
 }
