@@ -85,9 +85,16 @@
   },
   "p13-isack-hadjar": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/6413499545971100591",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDplNHpkSXFaVnBkVi1VcmNlNlloWkV3",
     "createTime": "2026-11-23T20:27:04.110384541Z",
     "planned": "2026-11-23"
+  },
+  "p14-maquette-refonte": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/312869147184152721",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtb3BfaDpUMUdFNjJ3akZoLUhldHpNRWFiQU13",
+    "createTime": "2026-11-24T19:38:39.454220439Z",
+    "planned": "2026-11-24"
   }
 }
