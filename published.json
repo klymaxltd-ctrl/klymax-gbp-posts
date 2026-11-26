@@ -96,5 +96,12 @@
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtb3BfaDpUMUdFNjJ3akZoLUhldHpNRWFiQU13",
     "createTime": "2026-11-24T19:38:39.454220439Z",
     "planned": "2026-11-24"
+  },
+  "p15-boutique": {
+    "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/2287030420400652879",
+    "state": "PROCESSING",
+    "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpqV2dHdVFpclNKa2F4RWw0Xy1QSk9R",
+    "createTime": "2026-11-26T18:33:17.607520999Z",
+    "planned": "2026-11-26"
   }
 }
