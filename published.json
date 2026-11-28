@@ -106,7 +106,7 @@
   },
   "p16-ads-jouet": {
     "name": "accounts/110390199561148926648/locations/10221904394084913389/localPosts/4972410305321368119",
-    "state": "PROCESSING",
+    "state": "LIVE",
     "searchUrl": "https://local.google.com/place?id=2635698393702422232&use=posts&lpsid=CAIQACoeChxtc3BfaDpVbVY2aXJPaEtBWG11UDdULWxjdWV3",
     "createTime": "2026-11-27T18:21:25.974221441Z",
     "planned": "2026-11-27"
